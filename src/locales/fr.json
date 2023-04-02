@@ -86,7 +86,7 @@
 			"description": "Montre que je suis en train d'écrire.",
 			"name": "t",
 			"responses": {
-				"channel-not-found": "Quelque chose s'est mal passée et je n'ai pas trouvé le canal à partir duquel vous m'avez appelé. Veuillez réessayer?",
+				"channel-not-found": "Quelque chose s'est mal passée et je n'ai pas trouvé le canal à partir duquel vous m'avez appelée. Veuillez réessayer?",
 				"success-cheeky": "J'ai commencé à écrire ici, mais je ne finirai pas :P"
 			}
 		},
@@ -124,7 +124,7 @@
 			"seconds-nan": "NaN secondes"
 		},
 		"deprecated": "Obsolète",
-		"dm-failed-disabled": "J'ai essayé de vous envoyer un DM tout à l'heure, mais il semble que vos DM soient désactivés.",
+		"dm-failed-disabled": "J'ai essayé de vous envoyer un DM tout à l'heure, mais il semble que vos DM sont désactivés.",
 		"no-personal-permission": "Vous n'avez pas la permission d'exécuter cette commande.",
 		"not-here": "Vous ne pouvez pas faire ça ici.",
 		"queue": {
